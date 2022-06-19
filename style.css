@@ -1,0 +1,53 @@
+#cal{
+    box-shadow: 5px 10px 5px 10px #808080;
+    border: 2px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 500px;
+    display: grid;
+    padding: 10px;
+    background-color: white;
+    text-align: center;
+    
+}
+button{
+    height: 50px;
+    width: 110px;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+#r1{
+   text-align: center; 
+   font-weight: bold;
+   font-size: 23px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#input{
+    margin-right: 10px;
+    margin-left: 10px;
+    width: 445px;
+    height: 30px;
+    border-radius: 10px;
+    border: 2px solid black;
+    align-self: center;
+    text-indent: 10px;
+    padding: 10px 0px;
+    font-size: 20px;
+}
+#r3{
+    text-align: left;
+    padding-left: 26px;
+}
+button:active{
+    background-color: #a0a0a0;
+}
+body{
+    background-color: #a0a0a0;
+}
+button:hover{
+    border: 3px solid blue;
+}
+
